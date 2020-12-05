@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1ec707",
+        "titleBar.activeBackground": "#2dc446",
+        "titleBar.activeForeground": "#f3f3ff"
+    },
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+}
